@@ -2,6 +2,7 @@
 
 I am Fangcheng Han, a master student in Ocean University of China.
 
-+ [My blog](https://fc-han.github.io/Blog/)
++ [My blog](http://rainy.works/)
++ [My random thoughts](http://rainyhfc.tech/)
 
 ![cover](cover.jpg)
