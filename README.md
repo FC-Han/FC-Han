@@ -1,17 +1,12 @@
 ### Hello there 👋 
 
-I am Fangcheng Han, a master student in Ocean University of China.
+大家好，我是Rainy，来自中国海洋大学一名研究生。
 
-+ [My blog](http://rainy.works/)
-+ [My random thoughts](http://rainyhfc.tech/)
++ [我的博客](http://rainy.works/)
++ [我的碎碎念](http://rainyhfc.tech/)
++ [我的知乎](https://www.zhihu.com/people/hfc_qingyu)
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-    <div style="height: 100px;">
-        <img src="weixin.jpg" alt="Buy Me A Coffee" style="height: 100%; width: auto;">
-        <p>这是第一张图片的说明</p>
-    </div>
-    <div style="height: 100px;">
-        <img src="zhihu.png" alt="Placeholder" style="height: 100%; width: auto;">
-        <p>这是第二张图片的说明</p>
-    </div>
+<div style="text-align: center;">
+    <img src="weixin.png" alt="Buy Me A Coffee" width="150">
+    <p>微信公众号</p>
 </div>
