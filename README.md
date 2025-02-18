@@ -6,7 +6,6 @@
 + [我的碎碎念](http://rainyhfc.tech/)
 + [我的知乎](https://www.zhihu.com/people/hfc_qingyu)
 
-<div style="text-align: center;">
-    <img src="weixin.jpg" alt="Buy Me A Coffee" width="150">
-    <p>微信公众号</p>
-</div>
+<p align="center">
+  <img src="weixin.jpg" alt="Buy Me A Coffee" width="150">
+</p>
