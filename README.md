@@ -7,5 +7,7 @@
 + [我的知乎](https://www.zhihu.com/people/hfc_qingyu)
 
 <p align="center">
-  <img src="weixin.jpg" alt="Buy Me A Coffee" width="150">
+  <img src="weixin.jpg" alt="Buy Me A Coffee" >
 </p>
+
+<p align="center"> 我的微信公众号 </p>
