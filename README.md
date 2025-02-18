@@ -5,13 +5,13 @@ I am Fangcheng Han, a master student in Ocean University of China.
 + [My blog](http://rainy.works/)
 + [My random thoughts](http://rainyhfc.tech/)
 
-<div style="display: flex; gap: 20px;">
-    <div>
-        <img src="weixin.jpg" alt="Buy Me A Coffee" width="150">
-        <p>微信公众号</p>
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <div style="height: 100px;">
+        <img src="weixin.png" alt="Buy Me A Coffee" style="height: 100%; width: auto;">
+        <p>这是第一张图片的说明</p>
     </div>
-    <div>
-        <img src="zhihu.png" alt="Placeholder" width="200">
-        <p>知乎</p>
+    <div style="height: 100px;">
+        <img src="zhihu.jpg" alt="Placeholder" style="height: 100%; width: auto;">
+        <p>这是第二张图片的说明</p>
     </div>
 </div>
